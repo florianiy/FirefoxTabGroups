@@ -1,3 +1,5 @@
+⚠️⚠️⚠️⚠️ Firefox readded tab groups(jan 2025?) => this code is obsolete now :)))
+
 Copy of Chrome's tab groups using WebExtApi:
   - create groups 💴💴
   - rgb colors (more than chrome's 10) 🔴🟢🔷
